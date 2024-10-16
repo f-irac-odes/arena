@@ -1,4 +1,4 @@
-# 🌐 Arena - The Networking Port for Your ECS ⚔️
+# 🌐 Arena - The Networking Port for Sword ⚔️
 
 > ⚔️ _"Why settle for local battles when you can conquer the world?"_  
 > – A visionary developer.
